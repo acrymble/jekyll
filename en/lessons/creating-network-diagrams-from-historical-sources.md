@@ -9,6 +9,8 @@ reviewers:
 - Justin Larsen
 editors:
 - Fred Gibbs
+exclude_from_check:
+  - review-ticket
 difficulty: 2
 activity: transforming
 topics: [network-analysis]
